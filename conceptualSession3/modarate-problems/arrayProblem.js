@@ -2,7 +2,7 @@
 // console.log(!x) // flase --> true
 
 // if(false){
-//     console.log('false block') // false ভেলু দিলে কোনো সে প্রিন্ট করবে না,
+//     console.log('false block') // if এর ভেতর false ভেলু দিলে কোনো সে প্রিন্ট করবে না,
 // }
 
 
