@@ -9,7 +9,7 @@
 
 function isInteger(x){
     if(typeof x !== 'number'){
-       return "please provide a number"
+       return "please enter a valid number"
     }
     else{
         if( x % 1 == 0){
@@ -22,4 +22,4 @@ function isInteger(x){
     
 }
 
-console.log(isInteger(30))
+console.log(isInteger('razu'))
