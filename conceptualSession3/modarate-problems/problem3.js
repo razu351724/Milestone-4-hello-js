@@ -25,6 +25,7 @@ function printDetails(person){
 const obj = {
     name: "mehedy",
     age: 24,
+    
     email: "abc@gmail.com"
 }
 
