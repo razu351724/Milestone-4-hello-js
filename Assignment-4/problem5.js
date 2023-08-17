@@ -7,9 +7,10 @@ function canPay(changeArray, totalDue) {
         return false;
     }
 }
-const numArry = [1,8];
-const number = 12;
+const numArry = [1,2,5];
+const number = 10;
 console.log( canPay(numArry,number))
+
 
 
 // Test cases
